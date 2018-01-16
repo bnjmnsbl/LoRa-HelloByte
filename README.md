@@ -1,7 +1,7 @@
 # LoRa-HelloByte
 Sends a small, airtime-saving ID message (1 Byte) from an Arduino Mega/Dragino Node to The Things Network
 
-##Setup
+## Setup
 
 1. Arduino Mega 2560
 2. Dragino LoRa Shield v. 14
