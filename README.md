@@ -4,8 +4,8 @@ Sends a small, airtime-saving ID message (1 Byte) from an Arduino Mega/Dragino N
 ## Setup
 
 1. Arduino Mega 2560
-2. Dragino LoRa Shield v. 14
-3. A TTN Account with respective Keys for your Application & Device
+2. Dragino LoRa Shield v. 1.4
+3. A TTN Account with respective Keys for your Network Session, Application & Device (ABP)
 
 ## Decoder Function
 Use the following function to decode your byte (in TTN->Application->Payload Formats)
